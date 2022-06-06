@@ -1,2 +1,7 @@
-# geog458_lab2
-twitter api project
+Twitter API assignment
+
+For this assignment I chose to collect tweets from the United States that mentioned the Boston Celtics NBA team. The NBA finals are going on this week and the celtics are a popular team. The National Basketball Association (NBA) has a huge following in the US and I knew it was the country where I could collect the most tweets from about this topic. I collected tweets the day of game 2 of the finals, and ran the program once before it started and again after it ended. The celtics lost the game so there was a noticible change in the sentiment of tweets.
+
+The tweets follow similar geospatial patterns before and after the game. I waited too long after the game was over and did not collect a lot of tweets for the second trial. However, I think that the geospatial patterns were similar because it was mostly big cities that were still tweeting about it, most noticeably the hometowns for the two basketball teams that were playing: San Franscisco and Boston.
+
+I think that the word clouds show the shift people had after watching the celtics team lose. In the first word cloud you can see positive words such as "go celtics" and "win". Additionally, words like "trouble", "refs", and "careless" are also tweeted often which could be from fans of the opposing team. In the second word cloud you can see words like "stuck", "regrets", and "recover". This could be referring to how the Celtics won the previous game. 
